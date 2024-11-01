@@ -1,0 +1,7 @@
+pip install django djangorestframework djangorestframework-api-key
+python -m pip install Pillow
+
+API Key: WG6wpbrT.zWp1Cxy1bqHEL2bf93yZ2cm8hu3fUVu1
+djangorestframework-simplejwt
+
+React Slick
